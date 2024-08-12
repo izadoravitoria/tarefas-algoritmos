@@ -1,0 +1,14 @@
+D:\Users\20241170150025\Desktop\Algoritmos 15.07\bin\Debug\net8.0\Algoritmos 15.07.exe
+D:\Users\20241170150025\Desktop\Algoritmos 15.07\bin\Debug\net8.0\Algoritmos 15.07.deps.json
+D:\Users\20241170150025\Desktop\Algoritmos 15.07\bin\Debug\net8.0\Algoritmos 15.07.runtimeconfig.json
+D:\Users\20241170150025\Desktop\Algoritmos 15.07\bin\Debug\net8.0\Algoritmos 15.07.dll
+D:\Users\20241170150025\Desktop\Algoritmos 15.07\bin\Debug\net8.0\Algoritmos 15.07.pdb
+D:\Users\20241170150025\Desktop\Algoritmos 15.07\obj\Debug\net8.0\Algoritmos 15.07.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20241170150025\Desktop\Algoritmos 15.07\obj\Debug\net8.0\Algoritmos 15.07.AssemblyInfoInputs.cache
+D:\Users\20241170150025\Desktop\Algoritmos 15.07\obj\Debug\net8.0\Algoritmos 15.07.AssemblyInfo.cs
+D:\Users\20241170150025\Desktop\Algoritmos 15.07\obj\Debug\net8.0\Algoritmos 15.07.csproj.CoreCompileInputs.cache
+D:\Users\20241170150025\Desktop\Algoritmos 15.07\obj\Debug\net8.0\Algoritmos 15.07.dll
+D:\Users\20241170150025\Desktop\Algoritmos 15.07\obj\Debug\net8.0\refint\Algoritmos 15.07.dll
+D:\Users\20241170150025\Desktop\Algoritmos 15.07\obj\Debug\net8.0\Algoritmos 15.07.pdb
+D:\Users\20241170150025\Desktop\Algoritmos 15.07\obj\Debug\net8.0\Algoritmos 15.07.genruntimeconfig.cache
+D:\Users\20241170150025\Desktop\Algoritmos 15.07\obj\Debug\net8.0\ref\Algoritmos 15.07.dll
